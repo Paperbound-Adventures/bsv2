@@ -1,0 +1,19 @@
+.nav,
+.navbar,
+.sticky {
+  /* display: inline-block; */
+}
+
+.navbar {
+  border: 3px solid orange;
+  /* width:1020px; */
+}
+
+.sticky {
+  top: 0;
+  width: 100%;
+}
+
+.navbar a.active {
+  background-color: #111;
+}
